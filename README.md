@@ -6,7 +6,7 @@
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+Website using WordPress backend and React/Frontity front end.
 
 
 ## Wireframes

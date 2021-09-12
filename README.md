@@ -13,8 +13,11 @@ Website using WordPress backend and React/Frontity front end.
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
-- [add link to your visual wireframes]()
-- [add link to your react architecture]()
+- [Wireframe of Homepage]()
+- [Wireframe of Services page](https://www.screencast.com/t/6FWyoTsy)
+- [Wireframe of Service detail page]()
+- [Wireframe of Blog Listing]()
+- [Wireframe of Blog detail page]()
 
 
 ### MVP/PostMVP - 5min
@@ -23,15 +26,17 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP EXAMPLE
 - Home page with several sections about my site
-- Products page that will render product info pulled in via an API  
-- Ability for user to favorite a product
-- Ability for user to add product to shopping cart
+- Blog Listing with ability to filter posts by category
+- Blog Detail pages  
+- Service landing page and detail pages
+- Contact Page and form
+- Global Site Search
 
 #### PostMVP EXAMPLE
 
-- Add Stripe or Shopify Pay for checkout
-- Caputre users email in a form and send an automated response
-- Build the app for mobile/tablet/desktop
+- Related Authors on Blog detail pages
+- Responsive Design
+- Homepage slider
 
 ## API
 
@@ -39,7 +44,86 @@ If you opted to make use of an API then use this section to include info about t
 
 
 ```
-{data: {} }
+{
+"id": 143,
+"date": "2021-09-08T09:40:17",
+"date_gmt": "2021-09-08T13:40:17",
+"guid": {
+"rendered": "https://comparisonsite.wpengine.com/?page_id=143"
+},
+"modified": "2021-09-08T09:40:17",
+"modified_gmt": "2021-09-08T13:40:17",
+"slug": "contact",
+"status": "publish",
+"type": "page",
+"link": "https://comparisonsite.wpengine.com/contact/",
+"title": {
+"rendered": "Contact"
+},
+"content": {
+"rendered": "",
+"protected": false
+},
+"excerpt": {
+"rendered": "",
+"protected": false
+},
+"author": 4,
+"featured_media": 0,
+"parent": 0,
+"menu_order": 0,
+"comment_status": "closed",
+"ping_status": "closed",
+"template": "",
+"meta": [],
+"_links": {
+"self": [
+{
+"href": "https://comparisonsite.wpengine.com/wp-json/wp/v2/pages/143"
+}
+],
+"collection": [
+{
+"href": "https://comparisonsite.wpengine.com/wp-json/wp/v2/pages"
+}
+],
+"about": [
+{
+"href": "https://comparisonsite.wpengine.com/wp-json/wp/v2/types/page"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://comparisonsite.wpengine.com/wp-json/wp/v2/users/4"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://comparisonsite.wpengine.com/wp-json/wp/v2/comments?post=143"
+}
+],
+"version-history": [
+{
+"count": 0,
+"href": "https://comparisonsite.wpengine.com/wp-json/wp/v2/pages/143/revisions"
+}
+],
+"wp:attachment": [
+{
+"href": "https://comparisonsite.wpengine.com/wp-json/wp/v2/media?parent=143"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+}
 ```
 
 ## Components
@@ -55,7 +139,9 @@ Based on the initial logic defined in the previous sections try and breakdown th
 
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
+ Use this section to list all supporting libraries and their role in the project such as Axios, ReactStrap, D3, etc. 
+ 
+ - Frontity
 
 ## Code Snippet
 

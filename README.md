@@ -15,7 +15,7 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 
 - [Wireframe of Homepage]()
 - [Wireframe of Services page](https://www.screencast.com/t/6FWyoTsy)
-- [Wireframe of Service detail page]()
+- [Wireframe of Service detail page](https://www.screencast.com/t/MUyAH0SVAy3e)
 - [Wireframe of Blog Listing]()
 - [Wireframe of Blog detail page]()
 

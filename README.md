@@ -26,7 +26,7 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP EXAMPLE
-- Home page with several sections about my site
+- Homepage with featured image, intro, recent blogs, service section
 - Blog Listing with ability to filter posts by category
 - Blog Detail pages  
 - Service landing page and detail pages

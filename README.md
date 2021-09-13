@@ -135,9 +135,12 @@ Based on the initial logic defined in the previous sections try and breakdown th
 
 | Component | Description | 
 | --- | :---: |  
-| App | This will make the initial data pull and include React Router| 
 | Header | This will render the header include the nav | 
 | Footer | This will render the header include the nav | 
+| Home | This will render the homepage | 
+| Blog | This will render the blog listing page | 
+| Post | This will render the blog detail pages | 
+| Page | This will render the pages content (Service landing page, Service Detail pages, etc) | 
 
 
 ## Additional Libraries

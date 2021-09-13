@@ -34,7 +34,8 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### PostMVP EXAMPLE
 
-- Related Authors on Blog detail pages
+- Related Authors on Blog Detail pages
+- Related Blogs on Blgo Detail Pages
 - Responsive Design
 - Homepage slider
 

@@ -13,7 +13,7 @@ Website using WordPress backend and React/Frontity front end.
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
-- [Wireframe of Homepage]()
+- [Wireframe of Homepage](https://www.screencast.com/t/ffZjl5NW9vBz)
 - [Wireframe of Services page](https://www.screencast.com/t/6FWyoTsy)
 - [Wireframe of Service detail page](https://www.screencast.com/t/MUyAH0SVAy3e)
 - [Wireframe of Blog Listing](https://www.screencast.com/t/QHHqwZM6D)

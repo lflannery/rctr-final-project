@@ -17,7 +17,7 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 - [Wireframe of Services page](https://www.screencast.com/t/6FWyoTsy)
 - [Wireframe of Service detail page](https://www.screencast.com/t/MUyAH0SVAy3e)
 - [Wireframe of Blog Listing](https://www.screencast.com/t/QHHqwZM6D)
-- [Wireframe of Blog detail page](https://www.screencast.com/t/oa2MxpTHu)
+- [Wireframe of Blog detail page](https://www.screencast.com/t/o9wpe7AXE1ix)
 
 
 ### MVP/PostMVP - 5min

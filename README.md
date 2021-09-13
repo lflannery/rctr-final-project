@@ -135,10 +135,10 @@ Based on the initial logic defined in the previous sections try and breakdown th
 
 | Component | Description | 
 | --- | :---: |  
-| Header | This will render the header include the nav | 
-| Footer | This will render the header include the nav | 
-| Home | This will render the homepage | 
-| Blog | This will render the blog listing page | 
+| Header | This will render the header include the nav & search | 
+| Footer | This will render the footer include the nav & social links | 
+| Home | This will render the homepage content | 
+| Blog | This will render the blog listing page content | 
 | Post | This will render the blog detail pages | 
 | Page | This will render the pages content (Service landing page, Service Detail pages, etc) | 
 

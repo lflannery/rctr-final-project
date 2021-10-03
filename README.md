@@ -26,19 +26,25 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP EXAMPLE
-- Homepage with featured image, intro, recent blogs, service section
+- Homepage with featured image, intro, recent case studies, service section
 - Blog Listing with ability to filter posts by category
 - Blog Detail pages  
-- Service landing page and detail pages
+- Service Landing page & detail pages
+- About page & Team listing
+- Work portfolio page with case study detail pages
 - Contact Page and form
 - Global Site Search
 
 #### PostMVP EXAMPLE
 
-- Related Authors on Blog Detail pages
-- Related Blogs on Blog Detail Pages
+- Hover styles to listing items (animation on images)
+- Active state for navigation menu items
+- Team Listing: Order by rank then title
+- Blog Detail pages: related author & related blogs
+- Team Detail pages: related blogs
+- About page: Animate statistics
 - Responsive Design
-- Homepage slider
+- Homepage: change format to be slider/scroll
 
 ## API
 
